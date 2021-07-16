@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHszgnP8iKRAg/profile-displaybackgroundimage-shrink_200_800/0/1617101925504?e=1625702400&v=beta&t=vj5DWFF1qdllvFYZSztNnmhLwknPWT_49R7IaRtLY1k" alt="image" />
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQHszgnP8iKRAg/profile-displaybackgroundimage-shrink_200_800/0/1617101925504?e=1631750400&v=beta&t=qIkIfPo7RmZrrjMZOdFV0XNOrleC4ZaM7Y7qOXbrdxg" alt="image" />
 
 ### Hi 👋, I'm Guddu  !
 I'm An Engineer By Profession And A Web Developer / Full-stack Developer (MERN Stack Developer)
