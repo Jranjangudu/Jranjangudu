@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHszgnP8iKRAg/profile-displaybackgroundimage-shrink_200_800/0/1617101925504?e=1631750400&v=beta&t=qIkIfPo7RmZrrjMZOdFV0XNOrleC4ZaM7Y7qOXbrdxg" alt="image" /></p>
 
 <h1 align="center">💻Hello! 👋 I'm Guddu</h1>
-<h3 align="center">I am a self-taught Programmer & I'm An Engineer By Profession And A Web Developer / Full-stack Developer (MERN Stack Developer).</h3>
+<h3 align="center">I am a self-taught Programmer & I'm An Engineer By Profession And A Full-stack Developer(MERN Stack).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jranjangudu&style=flat-square" alt="guddu" /> </p>
 <!--
