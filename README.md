@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHszgnP8iKRAg/profile-displaybackgroundimage-shrink_200_800/0/1617101925504?e=1631750400&v=beta&t=qIkIfPo7RmZrrjMZOdFV0XNOrleC4ZaM7Y7qOXbrdxg" alt="image" /></p>
+<!-- <p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHszgnP8iKRAg/profile-displaybackgroundimage-shrink_200_800/0/1617101925504?e=1631750400&v=beta&t=qIkIfPo7RmZrrjMZOdFV0XNOrleC4ZaM7Y7qOXbrdxg" alt="image" /></p> -->
+
+<p align="center"> <img src="https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg" alt="image" /></p>
 
 <h1 align="center">💻Hello! 👋 I'm Guddu</h1>
 <h3 align="center">I am a self-taught Programmer & I'm An Engineer By Profession And A Full-stack Developer(MERN Stack).</h3>
