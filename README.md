@@ -22,9 +22,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jranjangudu&style=flat-square" alt="guddu" /> </p>
 
-![Guddu GitHub statistics](https://github-readme-stats.vercel.app/api?username=jranjangudu&show_icons=true&theme=dark)
+<!-- ![Guddu GitHub statistics](https://github-readme-stats.vercel.app/api?username=jranjangudu&show_icons=true&theme=dark)
 
 ![Guddu GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=jranjangudu&layout=compact&theme=dark)
+ -->
+<a href="https://github.com/Jranjangudu/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jranjangudu&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/Jranjangudu/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jranjangudu&layout=compact&theme=dark" />
+</a>
+
+
 ## Development Skills:
 
  <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
