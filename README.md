@@ -46,6 +46,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<br/>
+
+<img width="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=jranjangudu&bg_color=000000&color=70A4FC&line=A259FF&point=1adbce&area=true&hide_border=true" />
 <!--
 
 
