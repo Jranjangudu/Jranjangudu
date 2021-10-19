@@ -49,7 +49,7 @@
 
 <br/>
 
-<img width="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=jranjangudu&bg_color=000000&color=70A4FC&line=A259FF&point=1adbce&area=true&hide_border=true" />
+<!-- <img width="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=jranjangudu&bg_color=000000&color=70A4FC&line=A259FF&point=1adbce&area=true&hide_border=true" /> -->
 <!--
 
 
