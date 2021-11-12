@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jranjangudu&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/Jranjangudu/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jranjangudu&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jranjangudu&layout=compact&theme=dark&langs_count=8" />
 </a>
 
 
