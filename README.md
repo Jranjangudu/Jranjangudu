@@ -5,17 +5,8 @@
 <!-- <p align="center"> <img src="https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373__340.jpg" alt="image" /></p> -->
 <!-- ascii banner -->
 
-<pre align="center">
- ________  _______   ___      ___ _______   ___       ________  ________  _______   ________     
-|\   ___ \|\  ___ \ |\  \    /  /|\  ___ \ |\  \     |\   __  \|\   __  \|\  ___ \ |\   __  \    
-\ \  \_|\ \ \   __/|\ \  \  /  / | \   __/|\ \  \    \ \  \|\  \ \  \|\  \ \   __/|\ \  \|\  \   
- \ \  \ \\ \ \  \_|/_\ \  \/  / / \ \  \_|/_\ \  \    \ \  \\\  \ \   ____\ \  \_|/_\ \   _  _\  
-  \ \  \_\\ \ \  \_|\ \ \    / /   \ \  \_|\ \ \  \____\ \  \\\  \ \  \___|\ \  \_|\ \ \  \\  \| 
-   \ \_______\ \_______\ \__/ /     \ \_______\ \_______\ \_______\ \__\    \ \_______\ \__\\ _\ 
-    \|_______|\|_______|\|__|/       \|_______|\|_______|\|_______|\|__|     \|_______|\|__|\|__|
-                                                                                                 
-</pre>
 
+<img align="center" src="https://www.billingscript.com/wp-content/uploads/billing-in-business.jpg" />
 
 <h1 align="center">Hello! 👋 I'm Guddu !</h1>
 <h3 align="center">I am a self-taught Programmer & I'm An Engineer By Profession Also A Full-stack Developer(MERN Stack).</h3>
