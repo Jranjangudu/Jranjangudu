@@ -8,7 +8,8 @@
 
 <img align="center" src="https://www.billingscript.com/wp-content/uploads/billing-in-business.jpg" />
 
-<h1 align="center">Hello! 👋 I'm Guddu !</h1>
+<h1 align="center">Hello!  
+<img width = "28"  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> I'm Guddu !</h1>
 <h3 align="center">I am a self-taught Programmer & I'm An Engineer By Profession Also A Full-stack Developer(MERN Stack).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jranjangudu&style=flat-square" alt="guddu" /> </p>
