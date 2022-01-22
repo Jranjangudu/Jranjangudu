@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> <img src="https://global-uploads.webflow.com/59e16042ec229e00016d3a66/5dfbd74fe0b6d7150b256a28_digital-marketing-hero.gif" alt="image" /></p>
+<p align="center"> <img src="https://c.tenor.com/f-nICqWLnrQAAAAM/programmer-cycle.gif" alt="image" /></p>
 
 
 
