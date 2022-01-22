@@ -2,11 +2,11 @@
 
 
 
-<!-- <p align="center"> <img src="https://cdn.pixabay.com/photo/2018/05/18/15/30/web-design-3411373__340.jpg" alt="image" /></p> -->
-<!-- ascii banner -->
+<p align="center"> <img src="https://global-uploads.webflow.com/59e16042ec229e00016d3a66/5dfbd74fe0b6d7150b256a28_digital-marketing-hero.gif" alt="image" /></p>
 
-<!-- 
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4E1BAQFx1oVxvzHbEA/company-background_10000/0/1582581477646?e=2159024400&v=beta&t=8TyYikkaITyCETuhMJ1birm0svVLvgI4936q6DVqFeY" /> -->
+
+
+<!-- <img align="center" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" /> -->
 
 <h1 align="center">Hello!  
 <img width = "28"  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> I'm Guddu !</h1>
