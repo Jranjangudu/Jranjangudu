@@ -2,7 +2,7 @@
 
 
 
-<p align="center"> <img src="https://c.tenor.com/f-nICqWLnrQAAAAM/programmer-cycle.gif" alt="image" /></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="image" /></p>
 
 
 
